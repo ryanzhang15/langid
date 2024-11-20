@@ -1,3 +1,7 @@
 # langid
-Installation: https://docs.google.com/document/d/1cvP3L6FXvW7cxBLKZgRqQQtcNERisW0DjeMR1g8Ych8/
-How it works: https://docs.google.com/presentation/d/1pumKnu43X8ONWSlzFo1UiXKz3lRWlxYt-P3BjGoH3no/edit?usp=sharing
+
+This project is old and now deprecated. Links may be broken and the project may not run properly.
+
+How it works: https://drive.google.com/file/d/1s506rVYBjJo4HylWCPLitDjXdyHsepsT/view?usp=sharing
+
+Installation & docs: https://drive.google.com/file/d/1M4Pq9EBar4mgwlwDMqUEUwVzirGjTFXm/view?usp=sharing
